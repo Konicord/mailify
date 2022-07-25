@@ -35,3 +35,5 @@ defp deps do
     ]
 end
 ```
+
+Not using Elixir? Try our NPM version [https://www.npmjs.com/package/mailify](https://www.npmjs.com/package/mailify)
