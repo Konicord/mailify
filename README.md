@@ -1,5 +1,5 @@
 # Mailify
-Validate emails by checking if they are disposed or not. 
+Validate emails by checking if they are disposable or not. 
 
 > The types of disposable email addresses
 
