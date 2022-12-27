@@ -23,7 +23,7 @@ defmodule Mailify do
   @base_url "https://open.kickbox.com/v1/disposable/"
 
   @type email_type() :: String.t()
-  @spec disposed(email_type()) :: boolean()
+  @spec disposed(email_type()) :: map()
 
   @doc """
 
